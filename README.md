@@ -30,9 +30,18 @@ Activities and Excursions: Engage in a host of activities and excursions, such a
 
 Clone the repository: git clone* https://github.com/oasisretreat/oasis-retreat.git**
 
-*Navigate to the project directory: cd oasis-retreat
+* Navigate to the project directory: cd oasis-retreat
 
 * Install dependencies: npm install
+
+This project relies on the following dependencies:
+
+- **[Swiper] (https://swiperjs.com/)** - A JavaScript library for creating responsive and touch-enabled sliders.
+
+  To include Swiper in your project, add the following script tag to your HTML file:
+
+  ```html
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
 ### Usage
 

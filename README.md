@@ -32,11 +32,10 @@ Clone the repository: git clone* https://github.com/oasisretreat/oasis-retreat.g
 
 * Navigate to the project directory: cd oasis-retreat
 
-* Install dependencies: npm install
-
+### Install dependencies: npm install
 This project relies on the following dependencies:
 
-- **[Swiper] (https://swiperjs.com/)** - A JavaScript library for creating responsive and touch-enabled sliders.
+**[Swiper] (https://swiperjs.com/)** - A JavaScript library for creating responsive and touch-enabled sliders.
 
   To include Swiper in your project, add the following script tag to your HTML file:
 

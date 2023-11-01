@@ -1,8 +1,8 @@
-#Oasis Retreat
+# Oasis Retreat
 
 Welcome to Oasis Retreat! This project is designed to provide a relaxing and rejuvenating experience for individuals seeking an escape from the hustle and bustle of daily life. Whether you're looking for a peaceful weekend getaway or a longer retreat, Oasis Retreat has everything you need to unwind and reconnect with yourself.
 
-###Table of Contents
+### Table of Contents
 
 Features
 
@@ -14,7 +14,7 @@ Contributing
 
 License
 
-###Features
+### Features
 
 Beautiful Locations: Oasis Retreat is situated in serene and picturesque locations, surrounded by nature's beauty. Enjoy breathtaking views and a tranquil atmosphere.
 
@@ -26,34 +26,34 @@ Gourmet Dining: Our talented chefs prepare delicious and nutritious meals using 
 
 Activities and Excursions: Engage in a host of activities and excursions, such as hiking, swimming, meditation workshops, nature walks, and sightseeing tours. There's something for everyone.
 
-###Installation
+### Installation
 
 Clone the repository: git clone* https://github.com/oasisretreat/oasis-retreat.git**
 
 *Navigate to the project directory: cd oasis-retreat
 
-*Install dependencies: npm install
+* Install dependencies: npm install
 
-###Usage
+### Usage
 
-*Run the application: npm start
+* Run the application: npm start
 
-*Open your web browser and visit: http://localhost:3000
+* Open your web browser and visit: http://localhost:3000
 
-*Explore the website and discover the various retreat options, amenities, and services available.
+* Explore the website and discover the various retreat options, amenities, and services available.
 
-*Make bookings, customize your retreat experience, and enjoy your stay at Oasis Retreat.
+* Make bookings, customize your retreat experience, and enjoy your stay at Oasis Retreat.
 
-###Contributing
+### Contributing
 
 We welcome contributions from the community to make Oasis Retreat even better.
 
 If you would like to contribute, please follow these steps:
 
-*Fork the repository.
+* Fork the repository.
 
-*Create a new branch: git checkout -b feature/your-feature-name.
+* Create a new branch: git checkout -b feature/your-feature-name.
 
-*Make your changes and commit them: git commit -m "Add your feature description".
+* Make your changes and commit them: git commit -m "Add your feature description".
 
-*Push to your branch: git push origin feature/your-feature-name.
+* Push to your branch: git push origin feature/your-feature-name.
